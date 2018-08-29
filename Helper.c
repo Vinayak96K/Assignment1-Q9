@@ -1,0 +1,17 @@
+#include"MyHeader.h"
+
+//////////////////////////////////////////////////////////////////////////////////////
+//  Function Name: Substract
+//  Description: Accepts one number and substracts 5 from it.
+//  Input: int[IN]
+//  Output: int
+//  Author: Vinayak Mahendra Patil
+/////////////////////////////////////////////////////////////////////////////////////
+
+int Substract(int iNO)
+{
+    int iAns=0;
+    iAns= iNO-5;
+    return iAns;
+
+}
